@@ -26,7 +26,7 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
 </p>
 
 <br>
-<strong><p align="center">My Socials 🤝</p></strong>
+<strong><p align="center">My Socials 🚀</p></strong>
 <p align="center">
    <a href="https://www.twitter.com/huclark_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
    <a href="https://www.github.com/huclark" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
