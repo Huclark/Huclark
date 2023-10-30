@@ -9,9 +9,7 @@
 # Skills
 <!-- Languages And Tools -->
 <br>
-<hr>
 <div align="center">
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp; /></a>
 </div>
 <hr/>
