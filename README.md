@@ -5,8 +5,9 @@
 
 # Github Statistics
 <p align="center">
-[![Huclark's GitHub stats](https://github-readme-stats.vercel.app/api?username=huclark)](https://github.com/anuraghazra/github-readme-stats)
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dohoudaniel&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Huclark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huclark&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Huclark&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
