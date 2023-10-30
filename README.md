@@ -1,17 +1,9 @@
-# About Me
-- Chartered Accountant
-- Financial Trader
-- Currently a student at <strong>ALX Software Engineering Programme (Cohort 18)</strong>
+# About Me👨
+- Chartered Accountant ⚖️
+- Financial Trader 📈
+- Currently a student at <strong>ALX Software Engineering Programme (Cohort 18)</strong> 📚
 
-# Github Statistics
-<p align="center">
-<a href="https://github.com/Huclark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huclark&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Huclark&layout=compact&langs_count=8&theme=dark"/>
-</a>
-</p>
-
-# Skills
+# Skills 🦾
 <!-- Languages And Tools -->
 <br>
 <div align="left">
@@ -24,4 +16,20 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />&nbsp;
 </div>
 <hr/>
-  
+
+# Github Statistics 📊
+<p align="center">
+<a href="https://github.com/Huclark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huclark&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Huclark&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</p>
+
+<br>
+<strong><p align="center">My Socials 🤝</p></strong>
+<p align="center">
+   <a href="https://www.twitter.com/huclark_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+   <a href="https://www.github.com/huclark" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+   <a href="https://www.linkedin.com/in/huclark/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+   <a href="http://www.instagram.com/huclarkvan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+</p>
