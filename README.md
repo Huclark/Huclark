@@ -1,7 +1,7 @@
 # About Me👨
 - Chartered Accountant ⚖️
 - Financial Trader 📈
-- Currently a student at <strong>ALX Software Engineering Programme (Cohort 18)</strong> 📚
+- Currently learning with <strong>ALX Software Engineering Programme (Cohort 18)</strong> 📚
 
 # Skills 🦾
 <!-- Languages And Tools -->
