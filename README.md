@@ -1,6 +1,7 @@
 # About Me👨
 - Chartered Accountant ⚖️
 - Financial Trader 📈
+- Full Stack Developer
 - Currently studying <strong>ALX Software Engineering Programme (Cohort 18)</strong> 📚
 
 # Skills 🦾
